@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-08T11:54:09 IST" name="Suite" finished-at="2023-09-08T11:57:11 IST" duration-ms="182529">
+    <groups>
+    </groups>
+    <test started-at="2023-09-08T11:54:09 IST" name="Test" finished-at="2023-09-08T11:57:11 IST" duration-ms="182529">
+      <class name="BestBuyTests.BestBuyTest">
+        <test-method signature="TestcaseLaunchBrowser()[pri:1, instance:BestBuyTests.BestBuyTest@6caf0677]" started-at="2023-09-08T11:54:19 IST" name="TestcaseLaunchBrowser" finished-at="2023-09-08T11:54:27 IST" duration-ms="8198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestcaseLaunchBrowser -->
+        <test-method is-config="true" signature="closeAllBrowsers()[pri:0, instance:BestBuyTests.BestBuyTest@6caf0677]" started-at="2023-09-08T11:54:27 IST" name="closeAllBrowsers" finished-at="2023-09-08T11:54:27 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowsers -->
+        <test-method signature="validLoginTestcase()[pri:2, instance:BestBuyTests.BestBuyTest@6caf0677]" started-at="2023-09-08T11:54:27 IST" name="validLoginTestcase" finished-at="2023-09-08T11:57:11 IST" duration-ms="163344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTestcase -->
+        <test-method is-config="true" signature="closeAllBrowsers()[pri:0, instance:BestBuyTests.BestBuyTest@6caf0677]" started-at="2023-09-08T11:57:11 IST" name="closeAllBrowsers" finished-at="2023-09-08T11:57:11 IST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllBrowsers -->
+      </class> <!-- BestBuyTests.BestBuyTest -->
+      <class name="BestBuyUtils.BrokenLink">
+        <test-method signature="brokenLinkBestbuy()[pri:0, instance:BestBuyUtils.BrokenLink@645aa696]" started-at="2023-09-08T11:54:09 IST" name="brokenLinkBestbuy" finished-at="2023-09-08T11:54:19 IST" duration-ms="10220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokenLinkBestbuy -->
+      </class> <!-- BestBuyUtils.BrokenLink -->
+      <class name="BestBuyUtils.Reports">
+        <test-method is-config="true" signature="startReport()[pri:0, instance:BestBuyUtils.Reports@5f049ea1]" started-at="2023-09-08T11:54:08 IST" name="startReport" finished-at="2023-09-08T11:54:09 IST" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:BestBuyUtils.Reports@5f049ea1]" started-at="2023-09-08T11:57:11 IST" name="endReport" finished-at="2023-09-08T11:57:12 IST" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- BestBuyUtils.Reports -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
